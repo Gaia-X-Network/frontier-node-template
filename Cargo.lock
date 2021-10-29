@@ -1920,7 +1920,7 @@ dependencies = [
 
 [[package]]
 name = "frontier-template-node"
-version = "0.0.0"
+version = "0.0.1"
 dependencies = [
  "async-trait",
  "fc-consensus",
@@ -1974,7 +1974,7 @@ dependencies = [
 
 [[package]]
 name = "frontier-template-runtime"
-version = "0.0.0"
+version = "0.0.1"
 dependencies = [
  "fp-rpc",
  "frame-benchmarking",
